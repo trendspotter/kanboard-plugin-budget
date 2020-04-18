@@ -1,7 +1,7 @@
 <?php
 
 return array(
-    'Remove hourly rate' => 'Stundensatz entfernen',
+    'Remove hourly rate' => 'Odstranit hodinovou sazbu',
     'Do you really want to remove this hourly rate?' => 'Opravdu chcete odstranit tuto hodinovou sazbu?',
     'Hourly rate' => 'Hodinová sazba',
     'Effective date' => 'Datum účinnosti',
@@ -17,17 +17,17 @@ return array(
     'Budget lines' => 'Položky rozpočtu',
     'Cost' => 'Cena',
     'Cost breakdown' => 'Rozpis nákladů',
-    'Do you really want to remove this budget line?' => 'Opravdu chcete odstranit tuto rozpočtovou řádku?',
+    'Do you really want to remove this budget line?' => 'Opravdu chcete odstranit tuto rozpočtovou položku?',
     'Expenses' => 'Náklady',
     'New budget line' => 'Nová položka rozpočtu',
-    'Remove a budget line' => 'Budgetlinie entfernen',
-    'Remove budget line' => 'Budgetlinie entfernen',
+    'Remove a budget line' => 'Odstranit rozpočtovou položku',
+    'Remove budget line' => 'Odstranit položku rozpočtu',
     'The budget line have been created successfully.' => 'Položka rozpočtu byla úspěšně vytvořena.',
-    'Unable to create the budget line.' => 'Nelze vytvořit rozpočtovou řádku.',
-    'Unable to remove this budget line.' => 'Nelze vyjmout rozpočtovou řádku.',
+    'Unable to create the budget line.' => 'Nelze vytvořit rozpočtovou položku.',
+    'Unable to remove this budget line.' => 'Nelze vyjmout rozpočtovou položku.',
     'Remaining' => 'Zbývající',
     'Currency rates are used to calculate project budget.' => 'Měnové sazby se používají k výpočtu rozpočtu projektu.',
-    'Burndown chart for "%s"' => 'Burndown-Chart für "%s"',
-    'Budget overview' => 'Budget Übersicht',
+    'Burndown chart for "%s"' => 'Burndown graf pro "%s"',
+    'Budget overview' => 'Přehled rozpočtu',
     'Type' => 'Typ',
 );
